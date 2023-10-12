@@ -1,0 +1,24 @@
+#spantag{
+    color: blueviolet;background-color: rgb(216, 210, 210); font-size: 20px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#spantag1{
+    color: rgb(132, 255, 0); background-color: antiquewhite; text-align: center;
+}
+h1,h2,h3 {
+    text-align: center;
+    color: blue;
+    background-color: bisque;
+}
+/*.(period operator)classname {properties:value}*/
+.div-container{
+    color: brown;
+    text-align: center;
+    font-family: Cambria;
+    font-size: 20px;
+    background-color: aqua;
+}
+.para1{
+    color: aqua;
+    text-align: center;
+    font-size: 25px;
+}

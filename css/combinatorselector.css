@@ -1,0 +1,14 @@
+div p{
+    color: blue;
+    font-size: medium;
+    text-align: center;
+}
+div > p{
+    color: blue;
+    font-size: medium;
+    text-align: center;
+}
+div +{
+    color: blue;
+    font-size: medium;
+}

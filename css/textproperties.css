@@ -1,0 +1,19 @@
+p{
+    text-shadow: 8px 8px 15px yellowgreen;
+    color: rgb(220, 58, 13);
+    font-size: 80px;
+    text-transform: uppercase;
+}
+.txt-tranfer{
+    text-transform: capitalize;
+    text-decoration: overline;
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid brown;
+}
+.overflow{
+    width: 150px;
+    height: 250px;
+}

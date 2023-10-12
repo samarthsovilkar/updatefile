@@ -1,0 +1,41 @@
+.position-static{
+
+    background-color: aqua;
+    height: 150px;
+    width: 150px;
+    position: static;
+     border: 2px solid blue;
+}
+
+.pos-relative{
+    background-color: rgba(240, 13, 47, 0.934);
+    height: 150px;
+    width: 150px;
+   position: relative;
+   border: 2px solid black;
+   top: 80px;
+
+}
+.pos-absulate{
+    background-color: rgba(11, 59, 202, 0.934);
+    height: 150px;
+    width: 150px;
+   position: absolute;
+   border: 2px solid black;
+   top: 450px;
+left: 50px;
+}
+.pos-fixed{
+    background-color: rgba(11, 59, 202, 0.934);
+    height: 40px;
+    width: 600px;
+    position: fixed;
+    bottom: 0px;
+}
+.pos-sticky{
+    background-color: rgba(158, 175, 225, 0.934);
+    height: 20px;
+    width: 450px;
+   position: sticky;
+   top: 0px;
+}

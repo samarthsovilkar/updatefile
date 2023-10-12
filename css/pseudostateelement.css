@@ -1,0 +1,53 @@
+.btn{
+    color: rgb(8, 91, 63);
+    background-color: cornsilk;
+    width: 200px;
+    border-radius: 45px;
+    font-size: 30px;
+    text-align: center;
+    padding: 21px 21px;
+}
+button.btn:hover{
+    background-color: rgb(103, 103, 232);
+    color: brown;
+    cursor: pointer;
+}
+.submit-btn{
+    color: rgb(8, 91, 63);
+    background-color: cornsilk;
+    width: 200px;
+    border-radius: 45px;
+    font-size: 30px;
+    text-align: center;
+    padding: 21px 21px;
+}
+button.submit-btn:hover{
+    background-color: rgb(103, 103, 232);
+    color: rgb(161, 87, 87);
+    cursor: pointer;
+}
+input.box:focus{
+    background-color: aqua;
+}
+a:active{
+    color: blue;
+}
+a:link{
+    color: brown;
+}
+a:visited{
+    color: darkorange;
+}
+p::first-line{
+    color: rgb(29, 129, 129);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p::first-letter{
+    font-size: x-large;
+    color: blueviolet;
+}
+body{
+    background-image: url('nature1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
